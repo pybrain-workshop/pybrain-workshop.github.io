@@ -1,2 +1,4 @@
 theme: jekyll-theme-slate
 exclude: ["README.md"]
+title: ["Python for brain imaging workshop"]
+description: ["An online workshop series hosted by MRC CBU, University of Cambridge"]

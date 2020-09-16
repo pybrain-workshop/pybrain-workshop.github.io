@@ -1,8 +1,8 @@
-# Python for brain imaging (PyBrain)
-This workshop series is for practicing neuroimagers who want to learn more about how to
-work with data in Python. We assume no previous Python background, and provide a
-comprehensive hands-on introduction to state of the art libraries for experiment
-building, statistical modelling, machine learning, and multimodal neuroimaging analysis.
+The python for brain imaging (PyBrain) workshop series is for practicing neuroimagers
+who want to learn more about how to work with data in Python. We assume no previous
+Python background, and provide a comprehensive hands-on introduction to state of the art
+libraries for experiment building, statistical modelling, machine learning, and
+multimodal neuroimaging analysis.
 
 The workshops are hosted by the [MRC Cognition and Brain Sciences
 Unit](https://www.mrc-cbu.cam.ac.uk/) at the University of Cambridge, and will run
