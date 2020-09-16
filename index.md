@@ -10,22 +10,27 @@ online with Zoom. Registration is free and will open soon. It will be possible t
 register separately for each workshop, but please do sign up for the introductory
 session if you've never worked with Python before.
  
-## Schedule
+# Schedule
 
-###2-3 November: Introductory python, basic data analysis, experiment coding
+##2-3 November: Introductory python, basic data analysis, experiment coding
+
 *Edwin Dalmaijer, MRC CBU*
+
 Details and link to workshop materials go here
 
 Registration link here
 
-###9-10 November: MRI analysis in Python using [Nipype](https://nipype.readthedocs.io/en/latest/), [Nilearn](https://nilearn.github.io/) and more
+##9-10 November: MRI analysis in Python using [Nipype](https://nipype.readthedocs.io/en/latest/), [Nilearn](https://nilearn.github.io/) and more
+
 *Michael Notter, Lausanne, and Peer Herholz, MNI*
 
-###16-17 November: M/EEG analysis with [MNE Python](https://mne.tools/stable/index.html)
+##16-17 November: M/EEG analysis with [MNE Python](https://mne.tools/stable/index.html)
+
 *Richard Höchenberger, INRIA*
 
-###23-24 November: Diffusion MRI with [DIPY](https://dipy.org/)
+##23-24 November: Diffusion MRI with [DIPY](https://dipy.org/)
+
 *Rafael Henriques, Champalimaud*
 
-## Contact
+# Contact
 [Johan Carlin](http://www.mrc-cbu.cam.ac.uk/people/Johan.Carlin/) (MRC CBU) for more details.
