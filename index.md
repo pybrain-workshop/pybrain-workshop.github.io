@@ -6,13 +6,15 @@ multimodal neuroimaging analysis.
 
 The workshops are hosted by the [MRC Cognition and Brain Sciences
 Unit](https://www.mrc-cbu.cam.ac.uk/) at the University of Cambridge, and will run
-online with Zoom. Registration is free and will open soon. It will be possible to
-register separately for each workshop, but please do sign up for the introductory
-session if you've never worked with Python before.
+online with Zoom. Registration is free and will open soon. 
  
 # Schedule
 
-## 2-3 November: Introductory python, basic data analysis, experiment coding
+Workshops will run Mondays and Tuesdays, and generally take place 9:30am-12:00pm and
+13:00pm-15:30pm GMT. There is separate registration for each workshop, but please do
+sign up for Edwin's introductory session if you've never worked with Python before.
+
+## 2-3 November 2020: Introductory python, basic data analysis, experiment coding
 
 *[Edwin Dalmaijer](http://www.pygaze.org/esdalmaijer/), MRC CBU*
 
@@ -20,16 +22,16 @@ Details and link to workshop materials go here
 
 Registration link here
 
-## 9-10 November: MRI analysis in Python using [Nipype](https://nipype.readthedocs.io/en/latest/), [Nilearn](https://nilearn.github.io/) and more
+## 9-10 November 2020: MRI analysis in Python using [Nipype](https://nipype.readthedocs.io/en/latest/), [Nilearn](https://nilearn.github.io/) and more
 
 *[Michael Notter](https://miykael.github.io/), Lausanne, and [Peer
 Herholz](https://peerherholz.github.io/), MNI*
 
-## 16-17 November: M/EEG analysis with [MNE Python](https://mne.tools/stable/index.html)
+## 16-17 November 2020: M/EEG analysis with [MNE Python](https://mne.tools/stable/index.html)
 
 *[Richard Höchenberger](https://hoechenberger.net/), INRIA*
 
-## 23-24 November: Diffusion MRI with [DIPY](https://dipy.org/)
+## 23-24 November 2020: Diffusion MRI with [DIPY](https://dipy.org/)
 
 *[Rafael Henriques](https://github.com/rafaelnh), Champalimaud*
 
