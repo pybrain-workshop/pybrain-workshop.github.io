@@ -1,4 +1,4 @@
-The python for brain imaging (PyBrain) workshop series is for practicing neuroimagers
+The python for brain imaging (pybrain) workshop series is for practicing neuroimagers
 who want to learn more about how to work with data in Python. We assume no previous
 Python background, and provide a comprehensive hands-on introduction to state of the art
 libraries for experiment building, statistical modelling, machine learning, and
@@ -14,7 +14,7 @@ session if you've never worked with Python before.
 
 ## 2-3 November: Introductory python, basic data analysis, experiment coding
 
-*Edwin Dalmaijer, MRC CBU*
+*[Edwin Dalmaijer](http://www.pygaze.org/esdalmaijer/), MRC CBU*
 
 Details and link to workshop materials go here
 
@@ -22,15 +22,16 @@ Registration link here
 
 ## 9-10 November: MRI analysis in Python using [Nipype](https://nipype.readthedocs.io/en/latest/), [Nilearn](https://nilearn.github.io/) and more
 
-*Michael Notter, Lausanne, and Peer Herholz, MNI*
+*[Michael Notter](https://miykael.github.io/), Lausanne, and [Peer
+Herholz](https://peerherholz.github.io/), MNI*
 
 ## 16-17 November: M/EEG analysis with [MNE Python](https://mne.tools/stable/index.html)
 
-*Richard Höchenberger, INRIA*
+*[Richard Höchenberger](https://hoechenberger.net/), INRIA*
 
 ## 23-24 November: Diffusion MRI with [DIPY](https://dipy.org/)
 
-*Rafael Henriques, Champalimaud*
+*[Rafael Henriques](https://github.com/rafaelnh), Champalimaud*
 
 # Contact
 [Johan Carlin](http://www.mrc-cbu.cam.ac.uk/people/Johan.Carlin/) (MRC CBU) for more details.
