@@ -1,3 +1,5 @@
+<img width="517" alt="pybrain_logo" src="pybrain_logo.png">
+
 The python for brain imaging (pybrain) workshop series is for practicing neuroimagers
 who want to learn more about how to work with data in Python. We assume no previous
 Python background, and provide a comprehensive hands-on introduction to state of the art
