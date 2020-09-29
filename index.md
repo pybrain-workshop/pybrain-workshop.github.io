@@ -1,4 +1,4 @@
-<img width="517" alt="pybrain_logo" src="pybrain_logo.png">
+<center><img width="517" alt="pybrain_logo" src="pybrain_logo.png"></center>
 
 The python for brain imaging (pybrain) workshop series is for practicing neuroimagers
 who want to learn more about how to work with data in Python. We assume no previous

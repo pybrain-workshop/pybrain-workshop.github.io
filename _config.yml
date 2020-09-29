@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-exclude: ["README.md"]
+exclude: ["README.md", "resources"]
 title: "pybrain workshop"
 description: "The python for brain imaging online workshop series"
 
