@@ -21,18 +21,26 @@ sign up for Edwin's introductory session if you've never worked with Python befo
 *[Edwin Dalmaijer](http://www.pygaze.org/esdalmaijer/), MRC CBU, University of
 Cambridge, UK*
 
+[registration](https://www.eventbrite.co.uk/e/pybrain-introductory-python-basic-data-analysis-experiment-coding-tickets-122958370797)
+
 ## 9-10 November 2020: MRI analysis in Python using [Nipype](https://nipype.readthedocs.io/en/latest/), [Nilearn](https://nilearn.github.io/) and more
 
 *[Michael Notter](https://miykael.github.io/), University of Lausanne, Switzerland and
 [Peer Herholz](https://peerherholz.github.io/), MNI, McGill University, Canada*
 
+[registration](https://www.eventbrite.co.uk/e/pybrain-mri-analysis-in-python-using-nipype-nilearn-and-more-tickets-123243136539)
+
 ## 16-17 November 2020: M/EEG analysis with [MNE Python](https://mne.tools/stable/index.html)
 
 *[Richard Höchenberger](https://hoechenberger.net/), INRIA Saclay, France*
 
+[registration](https://www.eventbrite.co.uk/e/pybrain-meeg-analysis-with-mne-python-tickets-123244189689)
+
 ## 23-24 November 2020: Diffusion MRI with [DIPY](https://dipy.org/)
 
 *[Rafael Henriques](https://github.com/rafaelnh), Champalimaud Centre for the Unknown, Lisbon, Portugal*
+
+[registration](https://www.eventbrite.co.uk/e/pybrain-diffusion-mri-with-dipy-tickets-123245505625)
 
 # Contact
 [Johan Carlin](http://www.mrc-cbu.cam.ac.uk/people/Johan.Carlin/) (MRC CBU) for more details.
