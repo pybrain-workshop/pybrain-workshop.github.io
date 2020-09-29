@@ -8,7 +8,7 @@ multimodal neuroimaging analysis.
 
 The workshops are hosted by the [MRC Cognition and Brain Sciences
 Unit](https://www.mrc-cbu.cam.ac.uk/) at the University of Cambridge, and will run
-online with Zoom. Registration is free and will open soon. 
+online with Zoom.
  
 # Schedule
 
