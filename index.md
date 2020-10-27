@@ -23,6 +23,32 @@ Cambridge, UK*
 
 [registration](https://www.eventbrite.co.uk/e/pybrain-introductory-python-basic-data-analysis-experiment-coding-tickets-122958370797)
 
+[instructions](http://www.pygaze.org/2020/10/pybrain-workshop)
+
+### Timings
+
+This workshop runs 9:30am - 15:30pm both days. We have breaks scheduled 10:30am-11:00am,
+12:00-13:00pm, and 14:00-14:30pm, during which time you may be expected to work
+independently on exercises. Please consult the instructions above before the workshop.
+
+Registered attendees will receive an email with the Zoom meeting details. 
+
+#### 2 November
+* Introduction to Jupyter Notebooks
+* Variables and variable types
+* Writing your own functions
+* What are classes, and how do I write my own?
+* Basic data handling, from loading to plotting
+
+#### 3 November
+* Implementing statistical tests
+* Model fitting through minimisation
+* A quick look at experiments\*
+* Using Python at home and/or in the lab
+
+\* While we will be going over how to code experiments, we won't be able to run them in
+our online environment. You'll thus have to apply what you learned at a later time.
+
 ## 9-10 November 2020: MRI analysis in Python using [Nipype](https://nipype.readthedocs.io/en/latest/), [Nilearn](https://nilearn.github.io/) and more
 
 *[Michael Notter](https://miykael.github.io/), University of Lausanne, Switzerland and
