@@ -31,7 +31,9 @@ This workshop runs 9:30am - 15:30pm both days. We have breaks scheduled 10:30am-
 12:00-13:00pm, and 14:00-14:30pm, during which time you may be expected to work
 independently on exercises. Please consult the instructions above before the workshop.
 
-Registered attendees will receive an email with the Zoom meeting details. 
+Registered attendees will receive an email with the Zoom meeting details. **Please check
+your bulk/spam email folders if you are registered and haven't heard from us by now, as
+Eventbrite emails often get marked as spam**
 
 #### 2 November
 * Introduction to Jupyter Notebooks
