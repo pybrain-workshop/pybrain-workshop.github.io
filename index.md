@@ -58,6 +58,40 @@ our online environment. You'll thus have to apply what you learned at a later ti
 
 [registration](https://www.eventbrite.co.uk/e/pybrain-mri-analysis-in-python-using-nipype-nilearn-and-more-tickets-123243136539)
 
+#### Instructions
+
+For this workshop you will need to install [Docker Desktop](https://www.docker.com/products/docker-desktop) on your system. Please follow [these instructions](https://github.com/miykael/workshop_pybrain#1-docker-recommended-fully-interactive) to setup your system. Please be aware that the download of the workshop content might take some time, as it includes the download of a docker image of ~10GB. If you run into problems, please let us know [by creating a new issue here](https://github.com/miykael/workshop_pybrain/issues).
+
+You are ready for the workshop and good to go, if you can open the Jupyter Notebook `program.ipynb` and see [something like this](https://nbviewer.jupyter.org/github/miykael/workshop_pybrain/blob/master/program.ipynb).
+
+### Timings
+
+This workshop runs from 09:30 to 15:30 both days. Lunch breaks are scheduled from 12:00 to 13:00. Individual short breaks can be taken during the multiple independent excersie sessesion throughout the workshop. Please consult the instructions above before the workshop. Be aware, that the setting up of your system might take some time, as it includes the download of a docker image of about 10GB.
+
+Registered attendees will receive an email with the Zoom meeting details. **Please check your bulk/spam email folders if you are registered and haven't heard from us by now, as Eventbrite emails often get marked as spam**
+
+#### 9th November
+* `09:30-10:00` - Workshop overview
+* `10:00-10:30` - Quick recap on Jupyter, Python and more\*
+* `10:30-12:00` - Explore MRI data with Nibabel and Nilearn
+* `12:00-13:00` - Lunch
+* `13:00-13:30` - How to set up your system, using Conda and Docker
+* `13:30-15:00` - Functional connectivity and machine learning
+* `15:00-15:30` - Innovations in neuroimaging tools (Part I)
+* `15:30-...` - Open ended for questions
+
+#### 10th November
+* `09:30-10:00` - Introduction to Nipype
+* `10:00-11:00` - Exploration of Nipype's building blocks
+* `11:00-12:00` - Creating a Nipype Pipeline from A-Z
+* `12:00-13:00` - Lunch
+* `13:00-14:00` - PyBIDS and Nistats
+* `14:00-15:00` - Multivariate pattern analysis using Searchlight and Deep Learning
+* `15:00-15:30` - Innovations in neuroimaging tools (Part 2)
+* `15:30-...` - Open ended for questions
+
+\* While we include a short recap of Jupyter and Python, we won't be able to cover this section in details. So if you're new to them, please make sure to take a look at [this](https://nbviewer.jupyter.org/github/miykael/workshop_pybrain/blob/master/notebooks/01a_intro_jupyter-notebook.ipynb) and [this](https://nbviewer.jupyter.org/github/miykael/workshop_pybrain/blob/master/notebooks/01b_intro_python.ipynb) notebook before the session to familiarize yourself with these tools. Both notebooks can also be explored interactively within the Docker environment.
+
 ## 16-17 November 2020: M/EEG analysis with [MNE Python](https://mne.tools/stable/index.html)
 
 *[Richard Höchenberger](https://hoechenberger.net/), INRIA Saclay, France*
