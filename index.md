@@ -66,9 +66,9 @@ You are ready for the workshop and good to go, if you can open the Jupyter Noteb
 
 ### Timings
 
-This workshop runs from 09:30 to 15:30 both days. Lunch breaks are scheduled from 12:00 to 13:00. Individual short breaks can be taken during the multiple independent excersie sessesion throughout the workshop. Please consult the instructions above before the workshop. Be aware, that the setting up of your system might take some time, as it includes the download of a docker image of about 10GB.
+This workshop runs from 09:30 to 15:30 both days. Lunch breaks are scheduled from 12:00 to 13:00. Individual short breaks can be taken during the multiple independent exercise sessions throughout the workshop. Please consult the instructions above before the workshop. Be aware, that the setting up of your system might take some time, as it includes the download of a docker image of about 10GB.
 
-Registered attendees will receive an email with the Zoom meeting details. **Please check your bulk/spam email folders if you are registered and haven't heard from us by now, as Eventbrite emails often get marked as spam**
+Registered attendees will receive an email with the Zoom meeting details by November 4. **Please check your bulk/spam email folders if you are registered and don't hear from us by this date, as Eventbrite emails often get marked as spam**
 
 #### 9th November
 * `09:30-10:00` - Workshop overview
