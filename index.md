@@ -25,6 +25,8 @@ Cambridge, UK*
 
 [instructions](http://www.pygaze.org/2020/10/pybrain-workshop)
 
+[materials and notebooks](https://github.com/esdalmaijer/PyBrain_Python_Intro)
+
 ### Timings
 
 This workshop runs 9:30am - 15:30pm both days. We have breaks scheduled 10:30am-11:00am,
