@@ -100,6 +100,8 @@ Registered attendees will receive an email with the Zoom meeting details by Nove
 
 [registration](https://www.eventbrite.co.uk/e/pybrain-meeg-analysis-with-mne-python-tickets-123244189689)
 
+[instructions and materials](https://github.com/hoechenberger/pybrain_mne/)
+
 ## 23-24 November 2020: Diffusion MRI with [DIPY](https://dipy.org/)
 
 *[Rafael Henriques](https://github.com/rafaelnh), Champalimaud Centre for the Unknown, Lisbon, Portugal*
