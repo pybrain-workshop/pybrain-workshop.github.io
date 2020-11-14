@@ -102,6 +102,22 @@ Registered attendees will receive an email with the Zoom meeting details by Nove
 
 [instructions and materials](https://github.com/hoechenberger/pybrain_mne/)
 
+The workshop will cover a broad range of topics to help you get to know all essential parts of MNE-Python for conducting MEG and EEG data analysis:
+
+- loading, filtering, and inspecting raw data
+- working with BIDS data
+- epoching and artifact correction
+- creating and visualizing evoked responses (ERP / ERF)
+- contrasting evoked responses of different experimental conditions
+- decoding neural responses (machine learning)
+- performing time-frequency analysis
+- estimating and visualizing cortical sources (source localization)
+- conducting a group analysis
+
+We will start with a **30 min warm-up at  9:00 a.m.** UTC on both days. During this warm-up, we can resolve technical difficulties you might be experiencing. **The actual workshop will start at 9:30.**
+
+Lunch break is from 12 to 1, and we will continue until 3:30 or longer if need be (to hopefully address all open questions).
+
 ## 23-24 November 2020: Diffusion MRI with [DIPY](https://dipy.org/)
 
 *[Rafael Henriques](https://github.com/rafaelnh), Champalimaud Centre for the Unknown, Lisbon, Portugal*
