@@ -124,6 +124,8 @@ Lunch break is from 12 to 1, and we will continue until 3:30 or longer if need b
 
 [registration](https://www.eventbrite.co.uk/e/pybrain-diffusion-mri-with-dipy-tickets-123245505625)
 
+[instructions and materials](https://github.com/RafaelNH/pybrain_dipy)
+
 In this two-days workshop, you will learn how to use different diffusion MRI (dMRI) techniques in an open-source environment. During the workshop, I will explain the theory behind different diffusion MRI techniques. This will be followed by practical tutorials based on the Diffusion in Python (Dipy) package ([dipy.org](https://dipy.org/)). 
 
 # Preparations 
