@@ -27,6 +27,8 @@ Cambridge, UK*
 
 [materials and notebooks](https://github.com/esdalmaijer/PyBrain_Python_Intro)
 
+[lecture video](https://youtu.be/yx3zRwOC6OQ)
+
 ### Timings
 
 This workshop runs 9:30am - 15:30pm both days. We have breaks scheduled 10:30am-11:00am,
@@ -101,6 +103,8 @@ Registered attendees will receive an email with the Zoom meeting details by Nove
 [registration](https://www.eventbrite.co.uk/e/pybrain-meeg-analysis-with-mne-python-tickets-123244189689)
 
 [instructions and materials](https://github.com/hoechenberger/pybrain_mne/)
+
+[lecture video](https://youtu.be/t-twhNqgfSY)
 
 The workshop will cover a broad range of topics to help you get to know all essential parts of MNE-Python for conducting MEG and EEG data analysis:
 
