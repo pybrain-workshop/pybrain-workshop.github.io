@@ -62,6 +62,10 @@ our online environment. You'll thus have to apply what you learned at a later ti
 
 [registration](https://www.eventbrite.co.uk/e/pybrain-mri-analysis-in-python-using-nipype-nilearn-and-more-tickets-123243136539)
 
+[instructions](https://github.com/miykael/workshop_pybrain)
+
+[lecture video](https://youtu.be/4FVGn8vodkc)
+
 #### Instructions
 
 For this workshop you will need to install [Docker Desktop](https://www.docker.com/products/docker-desktop) on your system. Please follow [these instructions](https://github.com/miykael/workshop_pybrain#1-docker-recommended-fully-interactive) to setup your system. Please be aware that the download of the workshop content might take some time, as it includes the download of a docker image of ~10GB. If you run into problems, please let us know [by creating a new issue here](https://github.com/miykael/workshop_pybrain/issues).
